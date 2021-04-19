@@ -1,24 +1,22 @@
 {
   "tasks": [
-
     {
       "id": 1,
       "text": "Doctor's Appointment",
       "day": "Feb 5th at 2:30 P.M",
       "reminder": true
-  },
-  {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30 P.M",
-      "reminder": true
-  },
-  {
+    },
+    {
       "id": 3,
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30 P.M",
       "reminder": true
-  }
-
+    },
+    {
+      "text": "Order dinner ",
+      "day": "MOnday night 6 pm",
+      "reminder": false,
+      "id": 5
+    }
   ]
 }
